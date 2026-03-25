@@ -57,4 +57,4 @@ Avispa (*Blastophaga*) | Maximiza oviposición | Aumenta descendencia
 La relación entre síconos y avispas muestra que la evolución no es solo cooperación.
 
 ***Ambas especies evolucionan juntas, pero no siempre con los mismos intereses***, lo que genera un equilibrio entre ayuda y conflicto.
-      </html>
+     
