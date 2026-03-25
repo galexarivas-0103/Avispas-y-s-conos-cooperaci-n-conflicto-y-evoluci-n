@@ -1,1 +1,1 @@
-# Avispas-y-s-conos-cooperaci-n-conflicto-y-evoluci-n
+# Avispas y síconos: cooperación conflicto y evolución
